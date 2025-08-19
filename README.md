@@ -9,22 +9,22 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abipoopyshow_icons=true&theme=react" alt="Hanah's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abipoopy&show_icons=true&theme=react" alt="Hanah's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abipoopy&layout=compact&theme=react" alt="Top languages" />
 </p>
 
 ---
 
-### 🧠 Most Used Language
+###  Most Used Language
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 **Languages & Tools:**
 
