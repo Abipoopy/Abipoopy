@@ -1,13 +1,5 @@
 
-<h1 align="center"> Hi, I'm Abi! </h1>
-
-<p align="center">
-  🎓 Bachelor of Science in Computer Science <br>
-  💻 Major in Software Engineering <br>
-  📍 Manila, Philippines
-</p>
-
----
+<h1 align="center"> Hi, I'm Abi </h1>
 
 **Languages & Tools:**
 
