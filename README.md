@@ -4,7 +4,6 @@
 **Languages & Tools:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat-square&logo=tensorflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
